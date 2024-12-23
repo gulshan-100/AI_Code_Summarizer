@@ -15,6 +15,13 @@ The Code Summarizer is a web application that allows users to input code either 
 - **AI Model**: Langchain with Google Generative AI
 - **Environment Management**: dotenv for loading environment variables
 
+## Screenshot
+![Screenshot (276)](https://github.com/user-attachments/assets/ab3bb6be-9431-4738-a436-c4dc233213aa)
+
+## Demo Video
+https://github.com/user-attachments/assets/d7c62fa2-f4e7-4fc7-a5e9-c2900e063087
+
+
 ## File Structure
 
 ## Installation
